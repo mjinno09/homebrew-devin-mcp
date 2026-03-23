@@ -1,15 +1,15 @@
-# homebrew-devin-mcp
+# homebrew-tap
 
-Homebrew tap for [devin-mcp](https://github.com/mjinno09/devin-mcp) — an MCP server for creating and managing Devin AI sessions.
+Homebrew tap for tools by [@mjinno09](https://github.com/mjinno09).
 
 ## Install
 
 ```sh
-brew install mjinno09/devin-mcp/devin-mcp
+brew install mjinno09/tap/devin-mcp
 ```
 
-## Update
+## Available Formulae
 
-```sh
-brew upgrade devin-mcp
-```
+| Formula | Description |
+|---|---|
+| [devin-mcp](https://github.com/mjinno09/devin-mcp) | MCP server for creating and managing Devin AI sessions |
